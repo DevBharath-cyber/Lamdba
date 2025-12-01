@@ -2,8 +2,9 @@ import React from 'react'
 
 function App() {
   return (
-    <div>
-      <p className='display-5 text-center'>welcome to anbu firm wings</p>
+    <div className='container'>
+      <h1 className='text-center text-capitalize text-primary'>welcome to anbu  firm wings</h1>
+      <p className='text-small text-center' style={{color:'brown'}}>Be the  proof</p>
     </div>
   )
 }
