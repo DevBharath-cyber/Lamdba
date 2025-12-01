@@ -3,7 +3,7 @@ import React from 'react'
 function App() {
   return (
     <div>
-      <p className='display-5 text-center'>welcome to the code language's</p>
+      <p className='display-5 text-center'>welcome to anbu firm wings</p>
     </div>
   )
 }
